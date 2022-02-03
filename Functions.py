@@ -1,0 +1,3 @@
+FPS = 60
+WIDHT = 100
+HEIGHT = 120
